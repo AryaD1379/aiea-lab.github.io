@@ -1,4 +1,4 @@
-+++ bio = "" date = "2023-10-27" id = "Aryan" interests = ["XAI", "Safe AI", "Responsible Data Science", "Autonomous Vehicles", "AI and Ethics"] name = "Aryan S Dadnam" portrait = "/portraits/leilani.jpg" short_bio = "Aryan S Dadnam is a Computer science Studnt at UCSC with a background in AI and machine learning" short_name = "Aryan" title = "PI"
++++ bio = "" date = "2023-10-27" id = "Aryan" interests = ["XAI", "Safe AI", "Responsible Data Science", "Autonomous Vehicles", "AI and Ethics"] name = "Aryan S Dadnam" portrait = "/portraits/AryanS.jpeg" short_bio = "Aryan S Dadnam is a Computer science Studnt at UCSC with a background in AI and machine learning" short_name = "Aryan" title = "PI"
 
 [[social]] icon = "envelope" icon_pack = "fa" link = "mailto:adadnam@ucsc.edu"
 
