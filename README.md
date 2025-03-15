@@ -1,4 +1,4 @@
-# Aiea group website (under construction)
+# Aiea group website
 
 ## From the hugo-academic-group
 
